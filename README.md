@@ -1,3 +1,3 @@
 # Snakes and Ladders Game
 
-This program implements the Snakes and Ladders board game in the console.
+This is a console application that simulates the Snakes and Ladders board game.
